@@ -1,0 +1,3 @@
+/* Generate a fixed-size (here is 10) list of random-sized (here no bigger than 10) arrays whose elements' value is also random but on larger than a number 
+(here is 100). Find all combinations of elements in the arrays (at least one, at most all) whose sum is equal to a given number (here is 100) */
+
